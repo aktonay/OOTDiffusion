@@ -4,7 +4,7 @@ scikit-image==0.21.0
 opencv-python==4.7.0.72
 pillow==9.4.0
 diffusers==0.24.0
-transformers==4.36.2
+transformers==5.10.1
 accelerate==0.26.1
 matplotlib==3.7.4
 tqdm==4.64.1
